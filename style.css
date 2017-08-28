@@ -1,0 +1,56 @@
+body {
+	background: white url(https://images8.alphacoders.com/698/thumb-1920-698599.jpg);
+	font-family: arial, helvetica, sans-serif;
+}
+
+h1 {
+	font-size: 4em;
+	text-align: center;
+	margin-left: 20px;
+    border-bottom: 8px solid #315159 ;
+    display: inline-block;
+}
+h1, h2, h3 {
+    color: #017D9C ; 
+}
+
+h2, h3 {
+    font-size: 2em;
+    text-align: center;
+    border-bottom: 4px solid #315159 ;
+    display: inherit;
+}
+
+p {
+    margin-left: 20px;
+    margin-right: 20px;
+    color: #162022;
+    font-size: 1,1em;
+    
+}
+
+.summary, .preamble, .explanation, .participation, .benefits, .requirements, .design-selection, .design-archives, .zen-resources {
+    background: rgba(211, 209, 234, 0.70);
+    border-radius: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px; 
+    padding-bottom: 20px;
+    padding-top: 10px; 
+}
+
+
+footer a:link {
+    color: red;
+}
+
+
+footer a:visited {
+    color: green;
+}
+
+
+footer a:hover {
+	color: hotpink;
+}
